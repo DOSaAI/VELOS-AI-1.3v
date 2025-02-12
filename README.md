@@ -51,7 +51,7 @@ For **Windows**:
 
 ### **2️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/VELOS-AI.git
+git clone https://github.com/epfklipteam/VELOS-AI-1.3v.git
 cd VELOS-AI
 ```
 
